@@ -1,1 +1,15 @@
 # go-pattern
+
+* [策略模式](https://github.com/jylc/go-pattern/tree/main/01-strategy-pattern)
+* [观察者模式](https://github.com/jylc/go-pattern/tree/main/02-observer-pattern)
+* [装饰者模式](https://github.com/jylc/go-pattern/tree/main/03-decorator-pattern)
+* [工厂方法模式](https://github.com/jylc/go-pattern/tree/main/04-factory-method-pattern)
+* [单例模式](https://github.com/jylc/go-pattern/tree/main/05-singleton-pattern)
+* [命令模式](https://github.com/jylc/go-pattern/tree/main/06-command-pattern)
+* [适配器模式](https://github.com/jylc/go-pattern/tree/main/07-adapter-pattern)
+* [外观模式](https://github.com/jylc/go-pattern/tree/main/08-facade-pattern)
+* [模板方法模式](https://github.com/jylc/go-pattern/tree/main/09-template-method-pattern)
+* [迭代器模式](https://github.com/jylc/go-pattern/tree/main/10-iterator-pattern)
+* [组合模式](https://github.com/jylc/go-pattern/tree/main/11-composite-pattern)
+* [状态模式](https://github.com/jylc/go-pattern/tree/main/12-state-pattern)
+* [代理模式](https://github.com/jylc/go-pattern/tree/main/13-proxy-pattern)
